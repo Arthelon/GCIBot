@@ -27,4 +27,4 @@ telegram.deleteWebHook()
 
 setInterval(function() {
 	http.get('http://gcibot16-17.herokuapp.com');
-}, 1800000);
+}, 600000);
